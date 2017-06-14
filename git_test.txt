@@ -1,3 +1,12 @@
 Hallo Welt!!
+<<<<<<< HEAD
+
+wie geht es dir??
+=======
 HOLA MUNDO !!!
+<<<<<<< HEAD
 sdfsdfsdfsdfdsfdsa
+=======
+sdfsdfsdfsdfdsf
+>>>>>>> 2a6d432de7c0d2f917049cf597cccff3652d54d4
+>>>>>>> f073504a08e44995fd2ef42422a3ec08685f32d1
